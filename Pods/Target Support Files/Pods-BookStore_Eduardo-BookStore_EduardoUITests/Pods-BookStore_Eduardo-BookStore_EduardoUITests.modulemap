@@ -1,0 +1,6 @@
+framework module Pods_BookStore_Eduardo_BookStore_EduardoUITests {
+  umbrella header "Pods-BookStore_Eduardo-BookStore_EduardoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
