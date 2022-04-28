@@ -1,0 +1,14 @@
+/* 
+  Localizable.string.strings
+  BookStore_Eduardo
+
+  Created by eduardofilho on 29/04/22.
+  
+*/
+
+//BookListViewController
+"iOSBooks" = "iOS Books";
+
+//BookViewController
+"Buy" = "Buy";
+

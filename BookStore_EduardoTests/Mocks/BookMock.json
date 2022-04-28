@@ -1,0 +1,96 @@
+{
+  "kind": "books#volume",
+  "id": "1jLPDwAAQBAJ",
+  "etag": "4XjDFJihatg",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/1jLPDwAAQBAJ",
+  "volumeInfo": {
+    "title": "History of Apple iOS",
+    "authors": [
+      "IntroBooks Team"
+    ],
+    "publisher": "IntroBooks",
+    "description": "\u003cp\u003e&quot;Today Apple is going to reinvent the phone.&quot; was those eight words that shook the mobile market on 9th Jan 2007. It was a Macworld Conference and Expo in San Francisco where Steve Jobs, the Apple CEO first introduce the iPhone to the world. And with the very first iPhone, Apple launched their personalized operating system for their phones, the iOS. On June 29th, 2007, iOS, primarily known as iPhone OS, was launched for the first time. Since then in every summer, they have reinvented the mobile operating system and with each update, they blow their consumers' minds with what is possible with their iDevices. And they are still improving.\u003c/p\u003e\u003cp\u003eAs mentioned before, Apple iOS is a personalized operating system specially designed for all the electronic devices by Apple, like the iPhones, iPad and iPod touch. The iOS was first announced on June 29th,2007 and since then it has come a long way and saw a lot of major changes too. Since the first iPhone OS (renamed as iOS later) the updates being released through iTunes software. And after iOS 5 it started releasing via over-the-air updates. Since then, the consumers never needed to use a USB on iTunes to connect with iOS. They started using iCloud for data synchronization.\u003c/p\u003e\u003cp\u003eEvery year, a new version of iOS is usually launched with a new iPhone model. In Apple’s yearly Worldwide Developers Conference (WWDC), they announce the new major iOS update and release it in September of the same year. The latest stable update of iOS is iOS 12.3.2. This update has been released on June 10th, 2019. The most recent Beta version of iOS, the iOS 12.4 Beta 4 has been released on the very next day. And Apple has already announced iOS 13 and some of its special features, such as dark mode on 3 rd June 2019 in their Worldwide Developers Conference (WWDC).\u003c/p\u003e",
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 27,
+    "printedPageCount": 27,
+    "printType": "BOOK",
+    "categories": [
+      "Computers / Programming / Mobile Devices",
+      "Technology & Engineering / Mobile & Wireless Communications"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=1jLPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73jW4LsBaNDzzKPsZIZh9dF4_oVu86W87koicyCyqePnqOla2_uU8EGxUhVUiPNlD9Rb_SKnEm7IA8HtP89CP69d6DyMg9HT4HJqunqmac1OpVAWACXlBItwwE_42HpJQmDSUtP&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=1jLPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE718pNQulAxvcBOchznRYPdrxiKODlKKzvd_jhhqaeR-s0oyE2YllNm5pNc1en2i4CzRj1wHwxpxMVQlLNlLfN54fNMqvWDVwPGPf153T14F0XYtiJP2aVe_yvEkv9kUFhLMgfOK&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=1jLPDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE730fiFUvxC9VgnMQCiZcus6fRLq5c2Ab6pt6UJnajdkhcQT_Frj05lOOPlXs_IGv1txHZLwXhYoEtGMQb-Skadsz9RjmI34v3E311ScwwYIdJ0sCQeHlY8v6e-Naof7fqyO-Qlu&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=1jLPDwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73riNknU4HMqUyMfZ8S4gzifbiF5B5UNq1qu9Z-M8pIBUtGA_URpefmuM8nZy1q1MdxRDluU3knYKrj6JqMtNgXuTFgRMG4t7XLkEt1llqR6UUh38XXMvZZu38LKUM-O4Z_yQnr&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=1jLPDwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71H000O0qj9enMYWDauMiEP0cQWLGx09SssPPaTZbcTHEA7x4qMzKmOdT4KDRS7EHB6LTFv33LoPBI0pd_xmdEcWB_Jk1o3VtHgG2YWjlkhOiPj7apvoRUYZ4XzQMhXCDEV7vMt&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/publisher/content?id=1jLPDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE72MhidjGQCwcU-bKTInTp4QLhlt5pNVk6onbbAuiF4bB_nbDtOC-Cp0E7QedOXEvJLUlWjmVP2S_SmmNDUn0leqgWXm7V_1KtN8GP0rOVwHXiDfVhPlrbKlzHSQ42b-sHLUHHC-&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=1jLPDwAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=1jLPDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1jLPDwAAQBAJ"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "2"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 13.93,
+      "currencyCode": "BRL"
+    },
+    "retailPrice": {
+      "amount": 13.93,
+      "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=1jLPDwAAQBAJ&rdid=book-1jLPDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 13930000,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amountInMicros": 13930000,
+          "currencyCode": "BRL"
+        },
+        "giftable": true
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true
+    },
+    "pdf": {
+      "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1jLPDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

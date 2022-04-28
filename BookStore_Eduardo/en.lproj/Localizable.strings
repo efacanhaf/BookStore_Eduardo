@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  BookStore_Eduardo
+
+  Created by eduardofilho on 29/04/22.
+  
+
+ */
+
+//BaseViewController
+"GenericError" = "Something is wrong";
+"GenericErrorMessage" = "Please, try again later.";
+"Ok" = "Ok";
+
+//BookListViewController
+"iOSBooks" = "iOS Books";
+
+//BookViewController
+"Buy" = "Buy";
